@@ -4,3 +4,4 @@ virtualenv
 .vscode
 superlists/__pycache__
 *.pyc
+.env
